@@ -1,5 +1,5 @@
 # 云运动任务管理系统
-
+##此仓库已经停用请移步[Yun2Face控制台](https://github.com/SuYunHan/Yun2Face-Console)
 Web 管理后台，用于管理安徽邮电职业技术学院学生的跑步打卡任务。
 
 ## 快速开始
@@ -11,7 +11,7 @@ python server.py
 # 首次部署：data/ 为空模板，需手动写入初始管理员账号（见「数据与版本控制」）
 ```
 
-前端支持独立部署到任意 Web 服务器（nginx / OpenWRT 路由器），详见 [DEPLOY.md](DEPLOY.md)。
+前端支持独立部署到任意 Web 服务器，详见 [DEPLOY.md](DEPLOY.md)。
 
 ## 功能概览
 
