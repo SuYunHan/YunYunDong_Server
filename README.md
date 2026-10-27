@@ -1,5 +1,5 @@
 # 云运动任务管理系统
-##此仓库已经停用请移步[Yun2Face控制台](https://github.com/SuYunHan/Yun2Face-Console)
+# 此仓库已经停用请移步[Yun2Face控制台](https://github.com/SuYunHan/Yun2Face-Console)
 Web 管理后台，用于管理安徽邮电职业技术学院学生的跑步打卡任务。
 
 ## 快速开始
